@@ -8,6 +8,7 @@ Usage
 Simply run this in your shell as such:
 
 chmod +x apache_vh.sh
+
 ./apache_vh.sh example.com
 
 
